@@ -1,6 +1,6 @@
 /* Daftar Pengguna Template */
 var twLSN = [
-'https://baqirstore.blogspot.com/',
+'https://www.baqirstore.blogspot.com/',
 'www.baqirstore.blogspot.com/',
 'baqirstore.blogspot.com/',
 'https://www.baqirstore.com',
